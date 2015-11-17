@@ -1,5 +1,5 @@
 {
-  "name": "retina.js",
+  "name": "mt-retina.js",
   "version": "1.0.0",
   "description": "serve high-resolution images to devices with retina displays.",
   "main": "./dist/index.js",
@@ -13,10 +13,7 @@
   "keywords": [
     "retina"
   ],
-  "authors": [
-    "Max Lee <liyue4158@gmail.com>",
-    "Thonatos.Yang <thonatos.yang@gmail.com>"    
-  ],
+  "authors": "Thonatos.Yang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MT-Libraries/retina.js/issues"

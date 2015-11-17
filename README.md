@@ -1,4 +1,4 @@
-# Retina.js
+# MT-Retina.js
 
 serve high-resolution images to devices with retina displays.
 
