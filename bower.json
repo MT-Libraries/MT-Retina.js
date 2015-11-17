@@ -1,0 +1,22 @@
+{
+  "name": "retina.js",
+  "authors": [
+    "Max Lee <liyue4158@gmail.com>",
+    "Thonatos.Yang <thonatos.yang@gmail.com>"    
+  ],
+  "description": "serve high-resolution images to devices with retina displays.",
+  "main": "./dist/retina.js",
+  "moduleType": [],
+  "keywords": [
+    "retina"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MT-Libraries/retina.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

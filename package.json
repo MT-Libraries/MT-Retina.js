@@ -1,0 +1,25 @@
+{
+  "name": "retina.js",
+  "version": "1.0.0",
+  "description": "serve high-resolution images to devices with retina displays.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MT-Libraries/retina.js.git"
+  },
+  "keywords": [
+    "retina"
+  ],
+  "authors": [
+    "Max Lee <liyue4158@gmail.com>",
+    "Thonatos.Yang <thonatos.yang@gmail.com>"    
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MT-Libraries/retina.js/issues"
+  },
+  "homepage": "https://github.com/MT-Libraries/retina.js#readme"
+}
