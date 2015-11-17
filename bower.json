@@ -11,7 +11,7 @@
     "retina"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/MT-Libraries/retina.js",
+  "homepage": "https://github.com/MT-Libraries/MT-Retina.js",
   "ignore": [
     "**/.*",
     "node_modules",

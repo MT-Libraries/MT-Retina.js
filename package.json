@@ -2,13 +2,13 @@
   "name": "mt-retina.js",
   "version": "1.0.0",
   "description": "serve high-resolution images to devices with retina displays.",
-  "main": "./dist/index.js",
+  "main": "./dist/retina.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MT-Libraries/retina.js.git"
+    "url": "git://git@github.com/MT-Libraries/MT-Retina.js.git"
   },
   "keywords": [
     "retina"
@@ -16,7 +16,7 @@
   "authors": "Thonatos.Yang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MT-Libraries/retina.js/issues"
+    "url": "https://github.com/MT-Libraries/MT-Retina.js/issues"
   },
-  "homepage": "https://github.com/MT-Libraries/retina.js#readme"
+  "homepage": "https://github.com/MT-Libraries/MT-Retina.js#readme"
 }
