@@ -1,6 +1,6 @@
 {
   "name": "mt-retina.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "serve high-resolution images to devices with retina displays.",
   "main": "./dist/retina.js",
   "scripts": {
